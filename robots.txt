@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://aemukit.github.io/sitemap.xml
+Sitemap: https://aemukit.me/sitemap.xml
